@@ -6,3 +6,6 @@ chicken65
 for veg people
 veg pulav
 panner curry
+
+beans
+pizza
